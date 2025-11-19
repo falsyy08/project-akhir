@@ -140,4 +140,5 @@ while True:
         print("Program selesai. Data tersimpan di file data_ktp.json ✅")
         break
     else:
+        
         print("Pilihan tidak valid!")
