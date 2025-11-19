@@ -139,6 +139,5 @@ while True:
     elif pilihan == "5":
         print("Program selesai. Data tersimpan di file data_ktp.json ✅")
         break
-    else:
-        
+    else:  
         print("Pilihan tidak valid!")
